@@ -86,5 +86,5 @@
 
 
 # software
-[跨平台音乐](https://github.com/sunzongzheng/music)
-[go视屏下载器](https://github.com/iawia002/annie)
+1. [跨平台音乐](https://github.com/sunzongzheng/music)
+2. [go视屏下载器](https://github.com/iawia002/annie)
